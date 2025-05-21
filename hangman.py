@@ -69,7 +69,7 @@ print(f"{BOLD}LET'S PLAY: {BLUE}H A N G M A N{RESET}")
 
 # (2) Select a random word out of the list
 
-answer_word = rw.word()
+answer_word = rw.word().upper()
 
 
 # (3) Count the word characters and assign "_" to each
