@@ -42,4 +42,4 @@ If the player makes six mistakes without guessing the word, they lose 👻!
 ## 👩‍💻 Author
 Created by [Valeria González](https://www.linkedin.com/in/valeria-gonzalez-vargas/)
 
-Based in Berlin | BI & Data Analyst | Always learning 📚
+Based in Berlin | BI & Data Analyst | Always learning 📚.
